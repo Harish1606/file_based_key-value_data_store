@@ -17,7 +17,7 @@ https://github.com/Harish1606/file_based_key-value_data_store.git
 
 6.To read value from the file type Functions().read() and press enter
 
-5.To delete value from the file type Functions().delete() and press enter 
+7.To delete value from the file type Functions().delete() and press enter 
 
 
 
